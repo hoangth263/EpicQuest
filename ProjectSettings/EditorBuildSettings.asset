@@ -1,0 +1,35 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/MenuScene.unity
+    guid: 0df32a00ff7040c4c9639869c9d0b855
+  - enabled: 1
+    path: Assets/Scenes/VolumeSettingScene.unity
+    guid: 5d68403d3a7952e4b8ab28abbed10438
+  - enabled: 1
+    path: Assets/Scenes/TutorialScene.unity
+    guid: 5ed2361195800ff4eb4ec15ad19fc066
+  - enabled: 1
+    path: Assets/Scenes/GameScene.unity
+    guid: 2cda990e2423bbf4892e6590ba056729
+  - enabled: 1
+    path: Assets/Scenes/QuitingScene.unity
+    guid: 3b5a030277960524e8a4c5a76bc5f0c9
+  - enabled: 1
+    path: Assets/Scenes/PauseScene.unity
+    guid: 7b76e23ec0d56cd409aa1e77616fe288
+  - enabled: 1
+    path: Assets/Scenes/DeathScene.unity
+    guid: 840da25a397e53046ad372f075986232
+  - enabled: 1
+    path: Assets/Scenes/Audio.unity
+    guid: 74d97665f23706e448cfcb78fa2b68bf
+  - enabled: 1
+    path: Assets/Scenes/VictoryScene.unity
+    guid: 0c978b57a84f8104380f442c63dfac6c
+  m_configObjects: {}
